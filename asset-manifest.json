@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.7628c6c3.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.7ff45436.css",
+    "main.js": "/static/js/main.fa051b1f.js",
+    "static/js/651.bb6b1a2e.chunk.js": "/static/js/651.bb6b1a2e.chunk.js",
+    "static/media/picone2.png": "/static/media/picone2.c958e707c8da73aa66fc.png",
+    "static/media/Somesh-Taksal-Resume.pdf": "/static/media/Somesh-Taksal-Resume.a2bc742e46865aa26c74.pdf",
+    "static/media/sass-icon.svg": "/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/node-icon.svg": "/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/bootstrap-icon.svg": "/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "static/media/shopify.svg": "/static/media/shopify.162913e43c02c125fd0720d80fc0dba3.svg",
+    "static/media/html-icon.svg": "/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/wordpress.svg": "/static/media/wordpress.3bcdd91b50514041e84ea420c14b4812.svg",
+    "static/media/css-icon.svg": "/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.7628c6c3.js.map": "/static/js/main.7628c6c3.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "static/media/js-icon.svg": "/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "main.7ff45436.css.map": "/static/css/main.7ff45436.css.map",
+    "main.fa051b1f.js.map": "/static/js/main.fa051b1f.js.map",
+    "651.bb6b1a2e.chunk.js.map": "/static/js/651.bb6b1a2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7628c6c3.js"
+    "static/css/main.7ff45436.css",
+    "static/js/main.fa051b1f.js"
   ]
 }
