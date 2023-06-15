@@ -1,9 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.0172fd9b.css",
-    "main.js": "/static/js/main.49d2567c.js",
+    "main.css": "/static/css/main.3cbfce78.css",
+    "main.js": "/static/js/main.62509d1d.js",
     "static/js/651.bb6b1a2e.chunk.js": "/static/js/651.bb6b1a2e.chunk.js",
     "static/media/picone2.png": "/static/media/picone2.c958e707c8da73aa66fc.png",
+    "static/media/devicon.svg?biu5f3": "/static/media/devicon.f715b4139afc5236a6e6.svg",
+    "static/media/devicon.eot?biu5f3": "/static/media/devicon.afa70020fddd5e5a3260.eot",
+    "static/media/devicon.woff?biu5f3": "/static/media/devicon.96fdfd136e8a467e1861.woff",
+    "static/media/devicon.ttf?biu5f3": "/static/media/devicon.b25739c2b9d15a53d60c.ttf",
     "static/media/Somesh-Taksal-Resume.pdf": "/static/media/Somesh-Taksal-Resume.a2bc742e46865aa26c74.pdf",
     "static/media/sass-icon.svg": "/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
     "static/media/node-icon.svg": "/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
@@ -17,12 +21,12 @@
     "index.html": "/index.html",
     "static/media/js-icon.svg": "/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/vue-icon.svg": "/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
-    "main.0172fd9b.css.map": "/static/css/main.0172fd9b.css.map",
-    "main.49d2567c.js.map": "/static/js/main.49d2567c.js.map",
+    "main.3cbfce78.css.map": "/static/css/main.3cbfce78.css.map",
+    "main.62509d1d.js.map": "/static/js/main.62509d1d.js.map",
     "651.bb6b1a2e.chunk.js.map": "/static/js/651.bb6b1a2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0172fd9b.css",
-    "static/js/main.49d2567c.js"
+    "static/css/main.3cbfce78.css",
+    "static/js/main.62509d1d.js"
   ]
 }
