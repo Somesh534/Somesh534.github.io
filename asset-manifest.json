@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.570c249c.css",
-    "main.js": "/static/js/main.8f5c70d4.js",
+    "main.js": "/static/js/main.e3c92c1b.js",
     "static/js/651.bb6b1a2e.chunk.js": "/static/js/651.bb6b1a2e.chunk.js",
     "static/media/picone2.png": "/static/media/picone2.c958e707c8da73aa66fc.png",
     "static/media/Somesh-Taksal-Resume.pdf": "/static/media/Somesh-Taksal-Resume.a2bc742e46865aa26c74.pdf",
@@ -18,11 +18,11 @@
     "static/media/js-icon.svg": "/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/vue-icon.svg": "/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "main.570c249c.css.map": "/static/css/main.570c249c.css.map",
-    "main.8f5c70d4.js.map": "/static/js/main.8f5c70d4.js.map",
+    "main.e3c92c1b.js.map": "/static/js/main.e3c92c1b.js.map",
     "651.bb6b1a2e.chunk.js.map": "/static/js/651.bb6b1a2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.570c249c.css",
-    "static/js/main.8f5c70d4.js"
+    "static/js/main.e3c92c1b.js"
   ]
 }
